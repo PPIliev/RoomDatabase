@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Login1229219</string>
+    <string name="username">Enter username</string>
+    <string name="password">Enter password</string>
+    <string name="lgoin">login</string>
+    <string name="newuser">Are you a new user? Please register below:</string>
+    <string name="register">Register</string>
+    <string name="Reenter">Re-enter password</string>
+    <string name="email">Enter an email address</string>
+    <string name="passerror">"Passwords must be the same! "</string>
+    <string name="loggedin">You have logged in correctly!</string>
+</resources>
